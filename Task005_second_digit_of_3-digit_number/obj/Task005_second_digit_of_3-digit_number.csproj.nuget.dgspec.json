@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Рабочий стол\\GeekBreins\\Основа языка СИШАРП\\Home_Tasks001\\Task005_second_digit_of_3-digit_number\\Task005_second_digit_of_3-digit_number.csproj": {}
+  },
+  "projects": {
+    "D:\\Рабочий стол\\GeekBreins\\Основа языка СИШАРП\\Home_Tasks001\\Task005_second_digit_of_3-digit_number\\Task005_second_digit_of_3-digit_number.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Рабочий стол\\GeekBreins\\Основа языка СИШАРП\\Home_Tasks001\\Task005_second_digit_of_3-digit_number\\Task005_second_digit_of_3-digit_number.csproj",
+        "projectName": "Task005_second_digit_of_3-digit_number",
+        "projectPath": "D:\\Рабочий стол\\GeekBreins\\Основа языка СИШАРП\\Home_Tasks001\\Task005_second_digit_of_3-digit_number\\Task005_second_digit_of_3-digit_number.csproj",
+        "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
+        "outputPath": "D:\\Рабочий стол\\GeekBreins\\Основа языка СИШАРП\\Home_Tasks001\\Task005_second_digit_of_3-digit_number\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Дмитрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
