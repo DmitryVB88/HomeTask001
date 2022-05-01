@@ -6,6 +6,17 @@ int x = (a / 10);
 //Console.WriteLine(x);
 int y = (a % 10);
 //Console.WriteLine(y);
+
+if (x == y)
+{
+    Console.Write("Первая цифра: ");
+    Console.WriteLine(x);
+    Console.Write("Вторая цифра: ");
+    Console.WriteLine(y);
+    Console.Write("Цифры равны между собой! ");
+    
+    }
+
 if( x > y)
 {
     Console.Write("max = ");
@@ -20,9 +31,11 @@ else
     Console.Write("min = ");
     Console.WriteLine(x);
 }
-if (x == y)
-{
-    Console.Write("Числа равны между собой = ");
-    Console.WriteLine(x);
-    Console.WriteLine(y);
-    }
+// if (x == y)
+// {
+//     Console.Write("Первая цифра: ");
+//     Console.WriteLine(x);
+//     Console.Write("Вторая цифра: ");
+//     Console.WriteLine(y);
+//     Console.Write("Цифры равны между собой! ");
+//     }
